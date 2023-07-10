@@ -12,7 +12,7 @@
     margin-top: 4px;
     display: flex;
 }
-
+/*fix src*/
 .header__navbar-item{
     margin: 0 8px;
     position: relative;
@@ -251,8 +251,7 @@
 .header__notify-list{
     padding-left: 0;
 }
-.header__notify-item{
-}
+
 .header__notify-item:hover{
     background-color: #f1f1f1;
 }
@@ -1025,12 +1024,7 @@ i.home-product-item__like-icon-fill{
     font-weight: 300;
     margin-top: 3px;
 }
-.home-product-item__brand{
 
-}
-.home-product-item__origin-name{
-
-}
 .home-product-item__favorite{
     position: absolute;
     top: 10px;
